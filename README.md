@@ -5,41 +5,25 @@
 
 # About Me
 
-안녕하세요.  
-서비스의 **기획 → 설계 → 구현 → 운영 → 품질 검증**까지 전 과정을 이해하려는 개발자 김재혁입니다.
+저는 대학에서 정보통신공학을 전공하며 소프트웨어 개발에 대한 관심을 확고히 다졌습니다. 학부 과정에서 네트워크, 데이터베이스, 운영체제 등 IT 전반에 대한 기초 역량을 체계적으로 습득했으며, Java 기반 웹 개발과 Python 기반 AI 기술을 결합한 실무 중심의 개발 역량을 갖추고 있습니다.
+Spring MVC, Spring Boot, MyBatis, Oracle 환경에서의 웹 서비스 개발 경험과 함께, 머신러닝·딥러닝·LLM을 활용한 AI 모델링 및 서비스 구현을 수행하며 백엔드와 AI를 아우르는 개발 경험을 축적했습니다.
 
-정보통신공학 전공을 통해 네트워크·데이터베이스·운영체제 기반을 다졌고,  
-라온시큐어 QA 경험을 통해 “오류 하나가 서비스 신뢰도를 무너뜨릴 수 있다”는 사실을 실무에서 체감했습니다.
+데이터 전처리 및 시각화, Random Forest 모델 설계, TensorFlow 기반 LSTM·CNN 모델링, FastAPI를 활용한 ML·DL·LLM API 개발, LangChain·LangGraph 기반 대화형 워크플로우 설계 경험을 보유하고 있으며, 전 과정에서 객체지향 설계 원칙과 확장성을 고려한 아키텍처를 적용했습니다.
+또한 Git을 활용한 형상 관리와 Jira 기반 이슈·일정 관리 경험을 통해 협업 환경에서의 개발 프로세스와 유지보수성을 고려한 개발 업무를 수행해 왔습니다.
 
-이후 단순 기능 구현을 넘어  
-✔ 아키텍처 설계  
-✔ 예외 흐름 정의  
-✔ 데이터 정합성 확보  
-✔ 운영 리스크 최소화  
-
-까지 고려하는 개발자로 성장하고 있습니다.
-
-현재는 Java(Spring) 기반 백엔드와 Python 기반 AI 모델링을 결합하여  
-**웹 + AI 통합 서비스 구현 역량**을 확장하고 있습니다.
-
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-- 서비스의 **기획 → 설계 → 구현 → 운영 → QA** 흐름을 이해하는 개발자  
-- Java(Spring) + Python(AI) 통합 개발  
-- 트랜잭션 설계 및 예외 흐름 정의 경험  
-- QA 실무 경험 기반 안정성 중심 개발  
+모든 프로젝트에서 팀장을 맡아 일정 조율과 역할 분담을 주도하였으며, Git, Slack, Notion, Jira를 활용한 협업 환경에서 팀원 간 커뮤니케이션을 이끌어 프로젝트를 기한 내 안정적으로 완수했습니다.
 
 <br clear="right"/>
 
 # Core Competency
 
-- Spring Boot + React 기반 풀스택 웹 서비스 설계 및 구현
-- FastAPI 기반 ML/DL 모델 서빙 API 구축
-- CNN / Random Forest 기반 예측 모델 설계 및 튜닝
-- RAG 아키텍처 및 LLM 워크플로우 설계 (LangChain, LangGraph)
-- 데이터 증강 / SMOTE / 클래스 불균형 개선 경험
-- 트랜잭션 설계 및 예외 흐름 구조화 경험
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
+- FastAPI 연동 및 Spting Boot-React 기반 AI 웹서비스 구현
+- React, Javascript 기반 사용자 인터페이스 설계 및 상태 관리 경험
+- 랜덤 포레스트, CNN, OCR, RAG 등 AI 학습 모델 구축
+- Git, Slack, Jira, Notion를 활용한 협업 프로젝트 관리
+<br clear="right"/>
 
 
 # Tech Stack
@@ -120,7 +104,7 @@
 
 # Experience
 
-## RaonSecure (라온시큐어) | QA Tester (7개월)
+## RaonSecure (라온시큐어) | QA Tester (7개월) 
 
 - OmniOne CX 통합인증 시스템 기능·회귀 테스트 (QA 2회 사이클 참여)
 - Smart Anti-Phishing 앱 QA 담당
@@ -142,8 +126,6 @@
 
 - EasyOCR 기반 등기부등본 텍스트 추출
 - OpenAI API 연동 위험 요소 분석
-- RAG 기반 계약서 검증 워크플로우 설계
-- Spring Boot + FastAPI 서비스 통합 배포
 - Cloudtype 환경 변수 기반 배포 자동화
 
 ✔ OCR 후처리 정규화 로직 설계
@@ -161,6 +143,16 @@
 
 ✔ 신규 데이터 일반화 성능 개선
 
+### Spring Boot · React 기반 농산물 직거래 시스템
+2025.11.14 ~ 2025.12.12
+
+- Open API 연동 및 데이터 가공
+- MongoDB 기반 데이터 설계
+- 결제 흐름 리스크 분석 및 구조 재설계
+- 예외 시나리오 기반 트랜잭션 흐름 정의
+
+✔ 결제 리스크 30~40% 감소 구조 설계
+
 
 ### Random Forest 기반 경기력 저하 예측
 2025.12.23 ~ 2025.12.30
@@ -173,15 +165,7 @@
 ✔ 불균형 데이터 환경에서 예측 성능 개선
 
 
-### Spring Boot · React 기반 농산물 직거래 시스템
-2025.11.14 ~ 2025.12.12
 
-- Open API 연동 및 데이터 가공
-- MongoDB 기반 데이터 설계
-- 결제 흐름 리스크 분석 및 구조 재설계
-- 예외 시나리오 기반 트랜잭션 흐름 정의
-
-✔ 결제 리스크 30~40% 감소 구조 설계
 
 ---
 
@@ -190,14 +174,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waguwagu796&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waguwagu796&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -218,15 +194,11 @@
 # Education
 
 - 명지대학교 정보통신공학과 졸업
+- 수원휴먼IT교육센터 JAVA 기반 풀스택 웹 개발 과정 수료
 - 수원휴먼IT교육센터 AI 웹 개발 과정 수료
 - 정보처리기사 필기 합격
 - JLPT N2 취득
 
-
-# GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waguwagu796&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waguwagu796&layout=compact)
 
 
 <p align="center">
